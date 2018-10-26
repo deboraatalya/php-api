@@ -4,7 +4,7 @@ body{
 }
 
 .judul{
-	background: #87D1D8;
+	background: #fffa65;
 	padding: 10px;
 	text-align: center;
 
@@ -30,7 +30,7 @@ table.table th th , table.table tr td{
 }
 
 table {
-	background-color: white;
+	background-color: #fffa65;
     border-radius: 10px;
     border-collapse: collapse;
     width: 80%;
@@ -45,11 +45,11 @@ table th{
     padding-bottom: 12px;
     text-align: left;
     background-color: rgb(255, 57, 57);
-    color: white;
+    color: blue;
     text-align: center;
 }
 table td{
-	border: 1px solid #000;
+	border: 1px solid #fffa65;
     padding: 2px;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -64,7 +64,7 @@ section#input-form{
 	margin-right: 10%;
 	margin-top: 30px;
 	border-radius: 6px;
-	background-color: #efefef;
+	background-color: #ffcccc;
 	box-shadow: 0 0 7px 0px rgba(136, 146, 146, 0.2);
 	padding: 30px;
 }
@@ -79,7 +79,7 @@ section#input-form{
 	margin-top: 15px;
 }
 #input-form .form .foto{
-	background-color: white;
+	background-color: blue;
 }
 #input-form .Gender{
 	width: 100%;
