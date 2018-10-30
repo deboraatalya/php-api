@@ -2,11 +2,11 @@
 <html>
 <head>
 	<title>Database</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
 	<div class="judul">
-		<h2>Edit data pada database</h2>
+		<h2><font color=#CCCCCC>Edit Data Pada Database</font></h2>
 	</div>
 	<br/>
 
